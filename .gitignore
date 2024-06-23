@@ -1,0 +1,7 @@
+dist
+build
+pyblog.egg-info
+venv
+testblog
+.DS_Store
+.idea
